@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_siswa_commerce_siswa_commerce,siswa_commerce.siswa_commerce,model_siswa_commerce_siswa_commerce,,1,0,0,0
